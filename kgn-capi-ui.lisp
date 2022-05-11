@@ -1,10 +1,11 @@
 ;;----------------------------------------------------------------------------
 ;; To try it, compile and load this file and then execute:
 ;;
-;;      (kgn::kgn)
+;;      (kgn-capi-ui:kgn-capi-ui)
 ;;
 ;;----------------------------------------------------------------------------
-;; Copyright (c) 2020 Mark Watson. All rights reserved.
+;; Copyright (c) 2020-2022 Mark Watson. All rights reserved.
+;; Apache 2 license
 ;;----------------------------------------------------------------------------
 
 (in-package #:kgn-capi-ui)
